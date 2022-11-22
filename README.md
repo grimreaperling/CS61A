@@ -1,7 +1,7 @@
 # CS61A
 This repository contain the learning material for the CS61A from the UCB.
 # Video
-I learn this course by watching the lecture videos from the course website.(www.cs61a.org)
+I learn this course by watching the lecture videos from the course website.(cs61a.org)
 # Some tools
 I use vim in the terminal to code all the assignment just like john which just for fun.
 Instead the website(code.cs61a.org) is a great place to code the exercise problems for this couse.
