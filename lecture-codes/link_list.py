@@ -18,5 +18,3 @@ def add(s, v):
     elif s.first < v:
         add(s.rest, v)
     return s
-
-        
